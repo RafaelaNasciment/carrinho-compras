@@ -1,6 +1,7 @@
 # CarrinhoCompras
 
-Minimal Api create using .Net8, consulting the REDIS (cache database).
-
-Tecnologias:
+*** Tecnologias
+Architeture: MinimalApi
+Version .Net: 8
 Segurança: TOKEN JWT
+Database: REDIS (cache database)
