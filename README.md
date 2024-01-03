@@ -1,8 +1,7 @@
 # CarrinhoCompras
 
 *** Tecnologias
-Architeture: MinimalApi
-
+Architeture: MinimalApi /n
 Version .Net: 8
 
 Segurança: TOKEN JWT
