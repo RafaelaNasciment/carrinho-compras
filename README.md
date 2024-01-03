@@ -1,7 +1,9 @@
 # CarrinhoCompras
 
 >> Tecnologias
-Architeture: MinimalApi
+Architeture:
+
+MinimalApi
 
 Version .Net: 8
 
