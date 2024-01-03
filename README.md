@@ -1,9 +1,7 @@
 # CarrinhoCompras
 
-*** Tecnologias
+*** Tecnologias/n
 Architeture: MinimalApi /n
-Version .Net: 8
-
-Segurança: TOKEN JWT
-
+Version .Net: 8/n
+Segurança: TOKEN JWT/n
 Database: REDIS (cache database)
